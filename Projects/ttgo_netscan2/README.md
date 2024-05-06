@@ -8,6 +8,7 @@
 </div>
 
 <b>A very simple test project that displays wifi networks around. You can use button A to cycle through the networks, and button B to rescan.</b>
+![netscan1](Images/netscan1.jpg)
 
 <hr>
 <br>
