@@ -18,8 +18,8 @@ These files allow IDE to use the correct libs for compiling the sketch/s for the
 
 ### Repo Directory
 
-<a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/User_Setup%20Files>User_Setup Files</a>
-<a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Projects>TTGO T-Display Projects</a>
+- <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/User_Setup%20Files>User_Setup Files</a>
+- <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Projects>TTGO T-Display Projects</a>
   
   ## Device Compatibility
 
