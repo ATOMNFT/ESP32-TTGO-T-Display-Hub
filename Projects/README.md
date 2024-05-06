@@ -1,4 +1,4 @@
-![Header](images/.png)
+![Header](images/ttgoheader.png)
 <br>
 
 <div align="center">
