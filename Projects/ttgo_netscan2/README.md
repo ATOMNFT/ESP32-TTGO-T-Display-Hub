@@ -8,6 +8,8 @@
 </div>
 
 <b>A very simple test project that displays wifi networks around. You can use button A to cycle through the networks, and button B to rescan.</b>
+<br>
+<b>Download the zip file above and open the .ino in Arduino IDE.</b>
 ![netscan1](images/netscan1.jpg)
 
 <hr>
