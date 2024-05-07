@@ -23,12 +23,14 @@ ___
 ## Directions For Adding Libraries
 - Download the libraries zip in this repo. Unzip the contents, and add the folders to **C:\Users\YOURNAME\Documents\Arduino\libraries** 
 <br>
+
 ![libraries-location](images/libslocation.png)
 
 ___
 ## Directions For Adding User_Setup Files
 - Download the The user_setup files and add them to your **C:\Users\YOURNAME\Documents\Arduino\libraries\TFT_eSPI-master** folder.
 <br>
+
 ![usersetup-location](images/usersetuplocation.png)
 
 
