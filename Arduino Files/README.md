@@ -1,6 +1,3 @@
-![Header](images/.png)
-<br>
-
 <div align="center">
   
 ## Arduino Enviroment files
