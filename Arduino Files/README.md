@@ -9,7 +9,9 @@ Below are directions on how to add the libraries and user_setup files to the IDE
 ___
 
 ## Add ESP32 board support 
-- Add ESP32 board support to the Arduino IDE. In File > Preferences, add the following to 'Additional Board Manager URLs':
+- Add ESP32 board support to the Arduino IDE.
+<br>
+In File > Preferences, add the following to 'Additional Board Manager URLs':
 
 ```
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
