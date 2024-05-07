@@ -7,9 +7,12 @@
 
 </div>
 
-<b>Prepare to delve into a treasure trove of innovation! Within this repository, I'll be infusing a rich tapestry of IDE sketches, supplemented with comprehensive documentation and supplementary materials. Expect to uncover a wealth of insights tailor-made for the captivating 1.14-inch TTGO T-Display.
+<b>Prepare to delve into a treasure trove of innovation! Within this repository, I'll be infusing a rich tapestry of IDE sketches, supplemented with comprehensive documentation and supplementary materials. 
 <br>
-But wait, there's more! As an added bonus, I've meticulously curated the essential user_setup files, meticulously designed to seamlessly integrate into your Arduino IDE environment. Simply nestle these files snugly within your "C:\Users\YOURNAME\Documents\Arduino\libraries\TFT_eSPI-master" directory, and behold as your IDE harnesses the power of precisely calibrated libraries for compiling the sublime sketches tailored specifically for the TTGO T-Display.</b>
+Expect to uncover a wealth of insights tailor-made for the captivating 1.14-inch TTGO T-Display.
+But wait, there's more! As an added bonus, I've meticulously curated the essential user_setup files, meticulously designed to seamlessly integrate into your Arduino IDE environment. 
+<br> 
+Simply nestle these files snugly within your "C:\Users\YOURNAME\Documents\Arduino\libraries\TFT_eSPI-master" directory, and behold as your IDE harnesses the power of precisely calibrated librariesfor compiling the sublime sketches tailored specifically for the TTGO T-Display.</b>
 
 <hr>
 <br>
