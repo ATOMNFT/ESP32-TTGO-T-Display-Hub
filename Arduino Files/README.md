@@ -8,6 +8,14 @@
 Below are directions on how to add the libraries and user_setup files to the IDE enviroment.</b>
 ___
 
+## Add ESP32 board support 
+- Add ESP32 board support to the Arduino IDE. In File > Preferences, add the following to 'Additional Board Manager URLs':
+
+```
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+```
+___
+
 # USB driver/s
 Make sure you Install drivers according to your machine. 
 - [CHxxx Series MAC driver](http://www.wch-ic.com/downloads/CH34XSER_MAC_ZIP.html) 
@@ -24,6 +32,7 @@ ___
 ![libraries-location](images/libslocation.png)
 
 ___
+
 ## Directions For Adding User_Setup Files
 - Download the The <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Arduino%20Files/User_Setup%20Files>user_setup files</a> and add them to your **C:\Users\YOURNAME\Documents\Arduino\libraries\TFT_eSPI-master** folder.
 <br>
