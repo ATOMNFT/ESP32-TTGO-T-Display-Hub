@@ -18,7 +18,7 @@ ___
 <br>
 
 ## Directions For Adding Libraries
-- Download the libraries zip in this repo. Unzip the contents, and add the folders to **C:\Users\YOURNAME\Documents\Arduino\libraries** 
+- Download the <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/blob/main/Arduino%20Files/Libraries/libraries.zip>libraries zip</a> in this repo. Unzip the contents, and add the folders to **C:\Users\YOURNAME\Documents\Arduino\libraries** 
 <br>
 
 ![libraries-location](images/libslocation.png)
