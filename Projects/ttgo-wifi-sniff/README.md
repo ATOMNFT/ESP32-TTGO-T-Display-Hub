@@ -10,7 +10,7 @@
 <b>A very simple test project that displays wifi networks around. You can use button A to rescan the networks, and button B to cyle result pages if more than 2 networks are found.</b>
 <br>
 <b>Download the zip file above and open the .ino in Arduino IDE.</b>
-![netscan1](images/.jpg)
+![](images/.jpg)
 
 <hr>
 <br>
