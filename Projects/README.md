@@ -9,8 +9,16 @@
 
 <b>All projects will be located here for easy access.</b>
 
+<details>
+<summary>⚡️ WiFi Tools</summary>
+<br />
+
 - <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Projects/ttgo-wifi-sniff>ttgo-wifi-sniff</a>
 - <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Projects/ttgo_netscan>Net-Scan</a>
+
+</details>
+
+
 
 <hr>
 <br>
