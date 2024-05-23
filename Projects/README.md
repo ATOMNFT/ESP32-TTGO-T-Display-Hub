@@ -9,7 +9,7 @@
 
 <b>All projects will be located here for easy access.</b>
 
-- <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Projects/ttgo-netscan>Net-Scan</a>
+- <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Projects/ttgo-netscan>ttgo-wifi-sniff</a>
 - <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Projects/ttgo_netscan2>Net-Scan2</a>
 
 <hr>
