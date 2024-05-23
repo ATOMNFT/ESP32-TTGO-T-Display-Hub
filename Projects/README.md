@@ -29,9 +29,8 @@
 
 </details>
 
+---
 
-
-<hr>
 <br>
   
   ## Device Compatibility
