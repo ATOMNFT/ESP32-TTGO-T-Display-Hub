@@ -18,6 +18,8 @@
 
 </details>
 
+---
+
 <details>
 <summary>🌐 Site Stats</summary>
 <br />
