@@ -1,4 +1,3 @@
-
 <br>
 
 <div align="center">
@@ -7,10 +6,13 @@
 
 </div>
 
-<b>A very simple test project that displays wifi networks around. You can use button A to rescan the networks, and button B to cyle result pages if more than 2 networks are found.</b>
+<b>A very simple test project that displays wifi networks around. You can use button A to rescan the networks, and button B to cycle result pages if more than 2 networks are found.</b>
 <br>
 <b>Download the zip file above and open the .ino in Arduino IDE.</b>
-![](images/.jpg)
+
+<br>
+
+![](Images/.jpg)
 
 <hr>
 <br>
