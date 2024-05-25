@@ -17,19 +17,21 @@ Simply nestle these files snugly within your "C:\Users\YOURNAME\Documents\Arduin
 <br>
 ---
 
-## GPIO Pinout
-
-![GPIO](images/gpio.jpg)
-
-<hr>
-<br>
-
 ## 📁 Repo Directory 📁
 
 - <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Arduino%20Files>Arduino Enviroment Files</a>
 - <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Projects>TTGO T-Display Projects</a>
-  
-  <hr>
+
+<br>
+---
+
+## GPIO Pinout
+
+![GPIO](images/gpio.jpg)
+
+---
+<br>
+---
   
 ### Device Compatibility
 
