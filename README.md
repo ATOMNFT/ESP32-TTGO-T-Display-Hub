@@ -29,7 +29,7 @@ Simply nestle these files snugly within your "C:\Users\YOURNAME\Documents\Arduin
 
 ![GPIO](images/gpio.jpg)
 
----
+
 <br>
 ---
   
