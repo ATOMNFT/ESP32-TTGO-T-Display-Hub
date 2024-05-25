@@ -15,6 +15,8 @@ But wait, there's more! As an added bonus, I've meticulously curated the essenti
 Simply nestle these files snugly within your "C:\Users\YOURNAME\Documents\Arduino\libraries\TFT_eSPI-master" directory, and behold as your IDE harnesses the power of precisely calibrated librariesfor compiling the sublime sketches tailored specifically for the TTGO T-Display.</b>
 
 <br>
+---
+
 ## GPIO Pinout
 
 ![GPIO](images/gpio.jpg)
