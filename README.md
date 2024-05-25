@@ -30,6 +30,7 @@ Simply nestle these files snugly within your "C:\Users\YOURNAME\Documents\Arduin
 ## GPIO Pinout
 
 ![GPIO](images/gpio.jpg)
+(Credit to the orginal copywrite creator)
 
 
 <br>
