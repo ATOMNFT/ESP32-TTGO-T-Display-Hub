@@ -1,4 +1,4 @@
-![Header](images/ttgo-projects.png)
+![Header](images/ttgoprojects.png)
 <br>
 
 <div align="center">
