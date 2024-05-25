@@ -17,7 +17,7 @@ Simply nestle these files snugly within your "C:\Users\YOURNAME\Documents\Arduin
 <br>
 ## GPIO Pinout
 
-![GPIO](Images/gpio.jpg)
+![GPIO](images/gpio.jpg)
 
 <hr>
 <br>
