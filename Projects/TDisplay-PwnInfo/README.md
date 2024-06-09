@@ -16,8 +16,10 @@
 
 <br>
 
-Follow the directions on the Arduino Enviroment Files to setup the enviroment correctly to minimize errors.</b>
-Load the .ino in Arduino IDE. You will need to add your wifi credentials in the ino file before compiling and flashing the sketch </b> 
+Follow the directions on the Arduino Enviroment Files to setup the enviroment correctly to minimize errors.</b> 
+<br>
+
+Load the .ino in Arduino IDE. You will also need to add your wifi credentials in the ino file before compiling and flashing the sketch </b> 
 
 ---
 
