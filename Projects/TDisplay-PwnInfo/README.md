@@ -9,10 +9,11 @@
 
 <b>A very simple test project that displays pwnagotchi totals per country. A total of 8 are displayed with 4 at time per page.</b>
 <br>
-<b>(Make sure the ino is insode the folder titled same as the .ino file) Download the <a href="https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/blob/main/Projects/TDisplay-PwnInfo/TDisplay-PwnInfo.zip">ZIP FILE</a> and extract it. 
+<b>(Make sure the ino is inside the folder titled same as the .ino file) Download the <a href="https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/blob/main/Projects/TDisplay-PwnInfo/TDisplay-PwnInfo.zip">ZIP FILE</a> and extract it. 
 
 <br>
-
+<b>You will need to grab the user_setup files located in <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Arduino%20Files>Arduino Enviroment Files</a>
+Follow the directions on the Arduino Enviroment Files to setup the enviroment correctly to minimize errors.</b>
 Load the .ino in Arduino IDE. You will need to add your wifi credentials in the ino file before compiling and flashing the sketch </b> 
 
 ---
