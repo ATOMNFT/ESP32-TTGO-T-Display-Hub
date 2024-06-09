@@ -13,6 +13,9 @@
 
 <br>
 <b>You will need to grab the user_setup files located in <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Arduino%20Files>Arduino Enviroment Files</a>
+
+<br>
+
 Follow the directions on the Arduino Enviroment Files to setup the enviroment correctly to minimize errors.</b>
 Load the .ino in Arduino IDE. You will need to add your wifi credentials in the ino file before compiling and flashing the sketch </b> 
 
