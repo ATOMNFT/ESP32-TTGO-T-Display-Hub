@@ -36,6 +36,7 @@ ___
 ___
 
 ## Directions For Adding User_Setup Files
+- (Make a backup of C:\Users\YOURNAME\Documents\Arduino\libraries\TFT_eSPI-master before doing ththe below steps)
 - Download the The <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Arduino%20Files/User_Setup%20Files>user_setup files</a> and add them to your **C:\Users\YOURNAME\Documents\Arduino\libraries\TFT_eSPI-master** folder.
 <br>
 

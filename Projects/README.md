@@ -25,13 +25,20 @@
 <br />
 
 - 
-- 
 
 </details>
 
 ---
 
-<br>
+<details>
+<summary>🛠️ Pwnagotchi Tools</summary>
+<br />
+
+- <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Projects/TDisplay-PwnInfo>TDisplay-PwnInfo</a>
+
+</details>
+
+---
   
   ## Device Compatibility
 
