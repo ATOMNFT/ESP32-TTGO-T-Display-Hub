@@ -11,11 +11,12 @@
 <br>
 <b>(Make sure the ino is insode the folder titled same as the .ino file) Download the zip file above and extract. Load the .ino in Arduino IDE.</b>
 
-<br>
-
-![pwnyinfo1](Images/1.jpg)![pwnyinfo2](Images/2.jpg)
+---
 
 ![pwnyunits](Images/pwnyunits.gif)
+<br>
+![pwnyinfo1](Images/1.jpg)![pwnyinfo2](Images/2.jpg)
+
 
 <hr>
 <br>
