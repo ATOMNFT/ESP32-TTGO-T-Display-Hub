@@ -13,8 +13,6 @@
 
 Expect to uncover a wealth of insights tailor-made for the captivating 1.14-inch TTGO T-Display.
 
-<br>
-
 ---
 
 Before diving into the projects you should take a look at the Arduino Enviroment Files section and install the required libs and user_setup files.
