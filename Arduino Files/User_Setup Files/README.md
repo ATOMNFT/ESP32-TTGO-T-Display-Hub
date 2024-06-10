@@ -25,6 +25,7 @@ Before compiling a sketch in IDE you should define the board as a "LOLIN D32" an
   
   After you have them added to the folder, go into the "User_Setup_Select" file and make sure #include <User_Setup_TTGO_NoTouch.h> is uncommented. 
   It should be when you download it but just double check.
+  ![define-device](Images/define-device.png)
 
 
 
