@@ -28,7 +28,7 @@ Before diving into the projects you should take a look at the Arduino Enviroment
 
 ## GPIO Pinout
 
-![GPIO](images/gpio.jpg)
+![GPIO](images/gpio-pinout.jpg)
 (Credit to the orginal copywrite creator)
 
 
