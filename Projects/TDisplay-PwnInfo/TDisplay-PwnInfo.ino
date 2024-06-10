@@ -4,8 +4,8 @@
 #include <ArduinoJson.h>
 #include <Button2.h>
 
-const char *ssid = "YOUR_SIDD"; // Enter your WiFi network SSID here
-const char *password = "YOUR_PASSWORD"; // Enter your WiFi network password here
+const char *ssid = "YOUR_SSID_HERE"; // Enter your WiFi network SSID here
+const char *password = "YOUR_PASSWORD_HERE"; // Enter your WiFi network password here
 
 // Define TFT display object
 TFT_eSPI tft;
@@ -30,7 +30,7 @@ void setup() {
   tft.setRotation(1);
   tft.fillScreen(TFT_BLACK);
   tft.setTextSize(2);
-  tft.setTextColor(TFT_WHITE);
+  tft.setTextColor(TFT_YELLOW);
 
   // Display connecting message
   tft.setCursor(10, 10);
@@ -112,19 +112,22 @@ void displayData() {
   // Display data on TFT screen
   tft.fillScreen(TFT_BLACK);
   tft.setTextSize(2);
-  tft.setTextColor(TFT_GREEN);
+  tft.setTextColor(TFT_RED); // Change title name color
   tft.setCursor(10, 10);
   tft.println("Pwnies by Country");
 
   int y = 40; // Initial y position for the list
   for (int i = startIndex; i < startIndex + 4 && i < totalEntries; i++) {
+    tft.setTextColor(TFT_WHITE); // Change list number color
     String country = doc[i]["country"];
     int units = doc[i]["units"];
     tft.setCursor(10, y);
     tft.print(i + 1);
     tft.print(". ");
+    tft.setTextColor(TFT_GREEN); // Change country color
     tft.print(country);
     tft.print(" - ");
+    tft.setTextColor(TFT_VIOLET); // Change total unit count color
     tft.println(units);
     y += 25; // Increment y position for next entry
   }
