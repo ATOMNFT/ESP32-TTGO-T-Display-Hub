@@ -14,12 +14,12 @@ Before compiling a sketch in IDE you should define the board as a "LOLIN D32" an
 
 # Directions for use
 
-- If you do not have the TFT_eSPI library by Bodmer installed, go ahead a download it from <a href=https://github.com/Bodmer/TFT_eSPI>HERE</a> 
+- If you do not have the TFT_eSPI library by Bodmer installed, go ahead a download it from <a href=https://github.com/Bodmer/TFT_eSPI>HERE</a> and manually install/add it to your library folder
   Or install it through Arduinos library manager.
 
 - Make a full backup of your \Arduino\libraries\ folder and keep it somewhere safe to revert to if you run into any errors.
 
-- Add these files to your "C:\Users\YOURNAME\Documents\Arduino\libraries\TFT_eSPI-master" folder. (Your folder might be titled slightly different but look for TFT_eSPI folder.)
+- Add these User_Setup files to your "C:\Users\YOURNAME\Documents\Arduino\libraries\TFT_eSPI-master" folder. (Your folder might be titled slightly different but look for TFT_eSPI folder.)
   
   <br>
   
