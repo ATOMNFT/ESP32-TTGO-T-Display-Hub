@@ -17,6 +17,8 @@ Expect to uncover a wealth of insights tailor-made for the captivating 1.14-inch
 
 ---
 
+Before diving into the projects you should take a look at the Arduino Enviroment Files section and install the required libs and user_setup files.
+
 ## 📁 Repo Directory 📁
 
 - <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Arduino%20Files>Arduino Enviroment Files</a>
