@@ -17,7 +17,8 @@
 
 #ifndef USER_SETUP_LOADED //  Lets PlatformIO users define settings in
                           //  platformio.ini, see notes in "Tools" folder.
-
+						  
+						  
 ///////////////////////////////////////////////////////
 //   User configuration selection lines are below    //
 ///////////////////////////////////////////////////////
@@ -28,23 +29,31 @@
 // (CUSTOM User Setup Files) //
 //////////////////////////////
 
-//#include <User_Setup_Gen.h>             // (Generic Setup)
-//#include <User_Setup_TTGO.h>           // (For TTGO T-Display)
-//#include <User_Setup_CYD.h>           // (For CYD)
+//#include <User_Setup.h>                          // (Generic Setup)
+//#include <User_Setup_CYD.h>                      // (For CYD)
+//#include <User_Setup_CYD_LVGL.h>                 // (For CYD with LVGL)
+//#include <User_Setup_CYD2USB.h>                  // (For CYD2USB)
+//#include <User_Setup_m5stickc.h>                 // (For M5Stick CPlus 1.1)
+//#include <User_Setup_m5stickcp2.h>               // (For M5Stick CPlus 2)
+//#include <User_Setup_marauder_m5stickc.h>        // (For M5Stick CPlus 1.1)
+//#include <User_Setup_marauder_m5stickcp2.h>      // (For M5Stick CPlus 2)
+//#include <User_Setup_minigotchi_m5stickc.h>      // (For For M5Stick CPlus 1.1)
+//#include <User_Setup_minigotchi_m5stickcp2.h>    // (For For M5Stick CPlus 2)
+//#include <User_Setup_minigotchi_m5cardputer.h>    // (For For M5Cradputer)
 
-//#include <User_Setup_marauder_m5stickc.h>
-//#include <User_Setup_marauder_m5stickcp2.h>
+#include <User_Setup_TTGO_NoTouch.h>             // (For TTGO T-Display)
 
-//////////////////////////////////////
-//  (END CUSTOM User Setup Files)  //
 ////////////////////////////////////
-
-
+// (END CUSTOM User Setup Files) //
+//////////////////////////////////
 
 //#include <User_Setups/Setup1_ILI9341.h>  // Setup file for ESP8266 configured for my ILI9341
 //#include <User_Setups/Setup2_ST7735.h>   // Setup file for ESP8266 configured for my ST7735
 //#include <User_Setups/Setup3_ILI9163.h>  // Setup file for ESP8266 configured for my ILI9163
 //#include <User_Setups/Setup4_S6D02A1.h>  // Setup file for ESP8266 configured for my S6D02A1
+
+//#include <User_Setups/Setup666_CYD_ESP32_2432S028.h>  // Setup file for Cheap Yellow Display
+
 //#include <User_Setups/Setup5_RPi_ILI9486.h>        // Setup file for ESP8266 configured for my stock RPi TFT
 //#include <User_Setups/Setup6_RPi_Wr_ILI9486.h>     // Setup file for ESP8266 configured for my modified RPi TFT
 //#include <User_Setups/Setup7_ST7735_128x128.h>     // Setup file for ESP8266 configured for my ST7735 128x128 display
@@ -70,7 +79,7 @@
 //#include <User_Setups/Setup22_TTGO_T4_v1.3.h>      // Setup file for ESP32 and TTGO T4 version 1.3
 //#include <User_Setups/Setup23_TTGO_TM.h>           // Setup file for ESP32 and TTGO TM ST7789 SPI bus TFT
 //#include <User_Setups/Setup24_ST7789.h>            // Setup file for DSTIKE/ESP32/ESP8266 configured for ST7789 240 x 240
-#include <User_Setups/Setup25_TTGO_T_Display.h>    // Setup file for ESP32 and TTGO T-Display ST7789V SPI bus TFT
+//#include <User_Setups/Setup25_TTGO_T_Display.h>    // Setup file for ESP32 and TTGO T-Display ST7789V SPI bus TFT
 //#include <User_Setups/Setup26_TTGO_T_Wristband.h>  // Setup file for ESP32 and TTGO T-Wristband ST7735 SPI bus TFT
 
 //#include <User_Setups/Setup27_RPi_ST7796_ESP32.h>    // ESP32   RPi MHS-4.0 inch Display-B
