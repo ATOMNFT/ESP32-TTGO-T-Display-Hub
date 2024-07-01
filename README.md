@@ -4,6 +4,9 @@
 <div align="center">
   
 ## A spot for all things TTGO T-Display (1.14in)
+<p align="center">
+<img src="https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/blob/main/images/Repolike.svg">
+</p>
 
 </div>
 
