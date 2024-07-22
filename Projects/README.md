@@ -26,10 +26,10 @@ the T-Display in Arduino IDE.
 ---
 
 <details>
-<summary>🌐 Site Stats</summary>
+<summary>🌐 Crypto Price Tickers</summary>
 <br />
 
-- 
+- <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Projects/crypto-price>crypto-price</a>
 
 </details>
 
