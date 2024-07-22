@@ -4,9 +4,9 @@
 
 </div>
 
-<b>A very simple test project that displays a specified crypto asset of your choice.</b>
+<b>A very simple test project that displays a specified crypto asset of your choice. Displays 1hr vol along with current price in USD.</b>
 <br>
-<b>(Make sure the ino is inside the folder titled same as the .ino file) Download the <a href="https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/blob/main/Projects/TDisplay-PwnInfo/TDisplay-PwnInfo.zip">ZIP FILE</a> and extract it. 
+<b>(Make sure the ino is inside the folder titled same as the .ino file) Download the <a href="https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/blob/main/Projects/crypto-price/crypto-price.zip">ZIP FILE</a> and extract it. 
 
 <br>
 <b>You will need to grab the user_setup files located in <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Arduino%20Files>Arduino Enviroment Files</a>
