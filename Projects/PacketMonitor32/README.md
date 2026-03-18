@@ -101,9 +101,10 @@ Also make sure the correct setup is enabled in:
 
 ## Images
 
-![Main Graph View](images/graph.jpg?text=Main+Graph+View)
-
-![Stats Page](images/stats.jpg?text=Stats+Page+or+Hardware+Setup)
+<p align="center">
+  <img src="images/graph.jpg" alt="Main Graph View" width="320">
+  <img src="images/stats.jpg" alt="Stats Page" width="320">
+</p>
 
 ## Credits
 
