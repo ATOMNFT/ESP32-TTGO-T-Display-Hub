@@ -12,8 +12,6 @@ Before trying out one of the projects here, head over to <a href=https://github.
 the T-Display in Arduino IDE. Below is a image showing SD breakout wiring.
 
 ![GPIO](images/T-display-SD-Pin.png)
-(Credit to the orginal copywrite creator)
-
 
 ---
 
