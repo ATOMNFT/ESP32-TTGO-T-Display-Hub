@@ -11,7 +11,9 @@ All projects will be located here for easy access.
 Before trying out one of the projects here, head over to <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Arduino%20Files>Arduino Enviroment Files</a> and install the required files to use 
 the T-Display in Arduino IDE. Below is a image showing SD breakout wiring.
 
-![GPIO](images/T-display-SD-Pin.png)
+<p align="center">
+  <img src="images/T-display-SD-Pin.png" alt="GPIO" width="500">
+</p>
 
 ---
 
