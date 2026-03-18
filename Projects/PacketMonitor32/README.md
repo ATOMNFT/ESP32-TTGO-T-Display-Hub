@@ -11,6 +11,13 @@ A compact TTGO T-Display port of Spacehuhn's original **PacketMonitor32** projec
 
 This version adapts the idea for the **LILYGO TTGO T-Display (ESP32)**, adds a TFT-based UI, on-device controls, deep sleep, a stats page, and external **SPI SD card logging**.
 
+## Images
+
+<p align="center">
+  <img src="images/graph.jpg" alt="Main Graph View" width="320">
+  <img src="images/stats.jpg" alt="Stats Page" width="320">
+</p>
+
 ## Features
 
 - Live Wi-Fi packet activity graph
@@ -98,13 +105,6 @@ Also make sure the correct setup is enabled in:
 - This build uses **SPI SD**, not **SD_MMC**.
 - GPIO 0 is also a boot/strapping pin, so avoid holding it during reset or power-up.
 - If SD logging fails, double-check your SPI SD wiring and card formatting.
-
-## Images
-
-<p align="center">
-  <img src="images/graph.jpg" alt="Main Graph View" width="320">
-  <img src="images/stats.jpg" alt="Stats Page" width="320">
-</p>
 
 ## Credits
 
