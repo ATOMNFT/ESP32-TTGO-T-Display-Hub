@@ -108,4 +108,3 @@ Also make sure the correct setup is enabled in:
 ## Credits
 
 - **Original PacketMonitor32:** Spacehuhn
-- **TTGO T-Display port and UI adaptation:** this project
